@@ -1,0 +1,1 @@
+I installed the cowsay library via "pip install cowsay"
